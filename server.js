@@ -1,1 +1,2 @@
-Apn = Npm.require('apn');
+APN = Npm.require('apn');
+
